@@ -1,0 +1,40 @@
+{
+    "author": "tomcat94@ymail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "mr-robot",
+    "pebble": {
+        "displayName": "Mr Robot",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/mr_robot_bg_bw.png",
+                    "name": "IMAGE_BG",
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/grotesque.ttf",
+                    "name": "FONT_GROTESQUE_24",
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/VerveStd-Bold.ttf",
+                    "name": "FONT_VERVE_72",
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "0b93d112-8618-4cb0-b58e-6e126fb3632c",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.1.0"
+}
